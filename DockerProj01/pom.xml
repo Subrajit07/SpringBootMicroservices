@@ -43,7 +43,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>docker01</finalName>		
+	   <finalName>docker01</finalName>		
 	<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
