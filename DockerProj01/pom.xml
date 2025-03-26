@@ -43,7 +43,8 @@
 	</dependencies>
 
 	<build>
-		<plugins>
+	<finalName>docker01</finalName>		
+	<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
