@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>DockerProj03</finalName>
+	<finalName>docker03</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
