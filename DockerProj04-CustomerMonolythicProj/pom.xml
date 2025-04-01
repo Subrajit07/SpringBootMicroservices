@@ -63,6 +63,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>dockerproj04</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
