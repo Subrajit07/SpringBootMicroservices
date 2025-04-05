@@ -49,6 +49,7 @@
 	</dependencies>
 
 	<build>
+	<finalName>docker05</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
